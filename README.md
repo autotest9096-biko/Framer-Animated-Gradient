@@ -21,6 +21,7 @@ This repository features two distinct versions of the animated gradient componen
 * **🔗 Links:**
   * [Install Component on Framer](https://framer.com/m/Interactive-animated-gradient-Bmcw.js@RW3mDHmFxZdQhD4ZfrV0)
   * [Remix / Preview Project](https://framer.link/Ac7IVjj)
+  * [Official Framer Marketplace Page](https://www.framer.com/community/marketplace/components/interactive-gradient/)
 
 ### 📦 Version 2: Gradient Animation (Alternative Style)
 * **Community Success:** Over **1,700+ downloads** on the Framer Marketplace.
@@ -28,6 +29,7 @@ This repository features two distinct versions of the animated gradient componen
 * **🔗 Links:**
   * [Install Component on Framer](https://framer.com/m/Gradient-Animation-tqst.js@tIfezCwTxotjChoh2ZBd)
   * [Remix / Preview Project](https://framer.link/DAqXEmL)
+  * [Official Framer Marketplace Page](https://www.framer.com/community/marketplace/components/animated-gradient-bg/)
 
 <img width="1886" height="631" alt="image" src="https://github.com/user-attachments/assets/90b7cbd6-1045-40ce-9595-6f7fd9c45372" />
 
