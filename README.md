@@ -29,6 +29,8 @@ This repository features two distinct versions of the animated gradient componen
   * [Install Component on Framer](https://framer.com/m/Gradient-Animation-tqst.js@tIfezCwTxotjChoh2ZBd)
   * [Remix / Preview Project](https://framer.link/DAqXEmL)
 
+<img width="1886" height="631" alt="image" src="https://github.com/user-attachments/assets/90b7cbd6-1045-40ce-9595-6f7fd9c45372" />
+
 ---
 
 ## 🛠️ How to Use
